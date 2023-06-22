@@ -25,7 +25,7 @@ void time_table(void)
 			{
 				_putchar(',');
 				_putchar(' ');
-				_put ((k / 10) + '0');
+				_putchar((k / 10) + '0');
 				_putchar((k % 10 ) + '0');
 			}
 		}
