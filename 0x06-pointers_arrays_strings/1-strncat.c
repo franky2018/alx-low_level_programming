@@ -1,4 +1,4 @@
-#include " main.h"
+#include "main.h"
 /**
  * _strncat - Concatenates two string using at most
  * an inputted numbers of byte from src.
