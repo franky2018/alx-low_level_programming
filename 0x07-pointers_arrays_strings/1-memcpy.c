@@ -5,7 +5,7 @@
  * @dest: input.
  * @src: input.
  * @n: input.
- * Rerurn: Always 0 (Success).
+ * Return: Always 0 (Success).
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
