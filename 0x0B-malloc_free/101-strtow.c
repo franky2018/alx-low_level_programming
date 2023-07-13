@@ -28,7 +28,7 @@ int word_len(char *str)
 }
 
 /**
- * count_word - count the numbers of words in a string
+ * count_words - count the numbers of words in a string
  * @str: the string to be searched
  *
  * Return: the number of word contained within str
@@ -98,7 +98,7 @@ char **strtow(char *str)
 
 		strings[w][l] = '\0';
 	}
-	
+
 	strings[w] = NULL;
 	return (strings);
 }
