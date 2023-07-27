@@ -49,5 +49,5 @@ int _strlen(const char *s)
 		a++;
 	}
 
-	return (a);
+return (a);
 }
